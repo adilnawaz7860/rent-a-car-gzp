@@ -1,0 +1,6 @@
+{
+  "name": "Rent A Car Lucknow Ghazipur Cab",
+  "description": "Premium daily sharing cab and car rental service between Ghazipur and Lucknow. Affordable, comfortable, and luxurious travel with easy WhatsApp Booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
